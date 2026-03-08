@@ -1,7 +1,7 @@
 # Analisis Data Produk Erigo
 
 ## 📌 Deskripsi Projek
-Projek ini bertujuan untuk mengumpulkan dan mengolah data produk dari toko Erigo. Data dikumpulkan menggunakan teknik web scraping, kemudian dibersihkan dan diproses menggunakan Python sebelum disimpan untuk dikelolah di PgAdmin
+Projek ini bertujuan untuk mengumpulkan dan mengolah data produk dari toko Erigo. Data dikumpulkan menggunakan teknik web scraping, kemudian dibersihkan dan diproses menggunakan Python sebelum disimpan untuk dikelolah di PostgreSQL
 
 ---
 
