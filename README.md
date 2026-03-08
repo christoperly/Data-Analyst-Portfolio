@@ -1,5 +1,6 @@
 # Data Analyst Portfolio
 Halo, Saya Christoper Leonardo Yosseri.
+
 Repository ini berisi kumpulan proyek yang saya kerjakan untuk mengembangkan kemampuan di bidang **Data Analysis**, khususnya dalam pengolahan data dan analisis data.
 
 Saya memiliki pengalaman 7 tahun mengelola website Wordpress, di mana saya terbiasa menganalisis performa website seperti traffic, search queries, dan perilaku pengguna menggunakan Google Analytics dan Google Search Console.
